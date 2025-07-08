@@ -1,1 +1,2 @@
-# complete_data_engineering_pipeline_snowflake_s3
+# Snowflake End-To-End ELT Pipeline
+
